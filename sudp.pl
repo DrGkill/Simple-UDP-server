@@ -2,7 +2,7 @@
 
 ##########################################################################
 #
-# Script name : Git Deployer Server
+# Script name : Simple UDP server 
 # Author : Guillaume Seigneuret
 # Date : 23/05/14
 # Last update : See Git log
